@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>OLLC Foundation Day</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <!-- Note: If you add a style.css file later, link it here. For now, we'll skip it to avoid errors -->
 </head>
