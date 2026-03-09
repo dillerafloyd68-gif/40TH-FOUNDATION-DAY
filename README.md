@@ -2,15 +2,13 @@
 <html lang="en">
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <!-- Note: If you add a style.css file later, link it here. For now, we'll skip it to avoid errors -->
 </head>
 
 <body>
 
 <nav>
   <div class="logo">
-    <!-- Replace with your logo file if you have one; otherwise, remove this img tag -->
-    <img src="logo2.jpg" alt="Our Lady of Lourdes College Foundation Day">
+    <img src="our-lady-of-lourdes-college-logo.jpg" alt="Our Lady of Lourdes College Official Logo">
   </div>
 </nav>
 
@@ -26,32 +24,6 @@
     offers quality education that nurtures academic excellence, values formation, and holistic development.
     We are committed to shaping future leaders and innovators through a dynamic and inclusive learning environment.
   </p>
-</section>
-
-<section class="section" id="quick-facts">
-  <h2>Quick Facts</h2>
-
-  <div class="cards">
-    <div class="card">
-      <h3>Founded</h3>
-      <p>1994</p>
-    </div>
-
-    <div class="card">
-      <h3>Location</h3>
-      <p>Gen. T. de Leon, Valenzuela City</p>
-    </div>
-
-    <div class="card">
-      <h3>Programs</h3>
-      <p>Grade School to College</p>
-    </div>
-
-    <div class="card">
-      <h3>Achievements</h3>
-      <p>Multiple awards in academics and sports</p>
-    </div>
-  </div>
 </section>
 
 <section class="section" id="foundation-days">
@@ -78,7 +50,7 @@ big energy, loud cheers, and unforgettable fun.
 
 <figure class="day-card">
 <div class="day-img-wrap">
-<img src="day 1 (1).jpg" alt="Day 1 highlight 1 - Performer in maroon jacket">
+<img src="day1-performer-maroon.jpg" alt="Day 1 highlight 1 - Performer in maroon jacket">
 </div>
 <figcaption class="day-desc">
 A contestant in a maroon jacket and cap delivers a lively performance with a microphone.
@@ -87,7 +59,7 @@ A contestant in a maroon jacket and cap delivers a lively performance with a mic
 
 <figure class="day-card">
 <div class="day-img-wrap">
-<img src="day 1 (2).jpg" alt="Day 1 highlight 2 - Performer in beige blazer">
+<img src="day1-performer-beige.jpg" alt="Day 1 highlight 2 - Performer in beige blazer">
 </div>
 <figcaption class="day-desc">
 Another participant in a beige blazer takes the stage, with the event backdrop visible behind.
@@ -96,7 +68,7 @@ Another participant in a beige blazer takes the stage, with the event backdrop v
 
 <figure class="day-card">
 <div class="day-img-wrap">
-<img src="day 1.jpg" alt="Day 1 highlight 3 - Performer with audience">
+<img src="day1-audience.jpg" alt="Day 1 highlight 3 - Performer with audience">
 </div>
 <figcaption class="day-desc">
 A performer engages the crowd, who respond with cheers and capture moments on their devices.
@@ -121,7 +93,7 @@ and inspiring. They were very talented, and every performance felt exciting and 
 
 <figure class="day-card">
 <div class="day-img-wrap">
-<img src="day 2.jpg" alt="Day 2 highlight 1 - Maroon-clad performers">
+<img src="day2-tk-maroon.jpg" alt="Day 2 highlight 1 - Maroon-clad performers">
 </div>
 <figcaption class="day-desc">
 TK performers in maroon tops deliver a high-energy routine with synchronized moves and vibrant stage presence.
@@ -130,7 +102,7 @@ TK performers in maroon tops deliver a high-energy routine with synchronized mov
 
 <figure class="day-card">
 <div class="day-img-wrap">
-<img src="day 2 (1).jpg" alt="Day 2 highlight 2 - Full stage view">
+<img src="day2-tk-full.jpg" alt="Day 2 highlight 2 - Full stage view">
 </div>
 <figcaption class="day-desc">
 Wide shot of the stage showing the full TK ensemble, with drums and amplifiers adding to the concert setup.
@@ -139,7 +111,7 @@ Wide shot of the stage showing the full TK ensemble, with drums and amplifiers a
 
 <figure class="day-card">
 <div class="day-img-wrap">
-<img src="day 2 (2).jpg" alt="Day 2 highlight 3 - Purple-clad performers">
+<img src="day2-tk-purple.jpg" alt="Day 2 highlight 3 - Purple-clad performers">
 </div>
 <figcaption class="day-desc">
 A striking performance segment featuring dancers in shiny purple outfits with precise, coordinated formations.
@@ -163,7 +135,7 @@ Day 3 expanded beyond sports to include "Performing Arts Showcase: Youth in Moti
 
 <figure class="day-card">
 <div class="day-img-wrap">
-<img src="day 3.jpg" alt="Day 3 highlight 1 - Yellow-clad dance ensemble">
+<img src="day3-yellow-formation.jpg" alt="Day 3 highlight 1 - Yellow-clad dance ensemble">
 </div>
 <figcaption class="day-desc">
 A large group of performers in bright yellow shirts forms a dramatic, synchronized formation on the gymnasium floor.
@@ -172,7 +144,7 @@ A large group of performers in bright yellow shirts forms a dramatic, synchroniz
 
 <figure class="day-card">
 <div class="day-img-wrap">
-<img src="day 3 (1).jpg" alt="Day 3 highlight 2 - Dance performance with audience">
+<img src="day3-yellow-audience.jpg" alt="Day 3 highlight 2 - Dance performance with audience">
 </div>
 <figcaption class="day-desc">
 Performers deliver an emotional dance routine as the engaged audience watches from the sidelines.
@@ -181,7 +153,7 @@ Performers deliver an emotional dance routine as the engaged audience watches fr
 
 <figure class="day-card">
 <div class="day-img-wrap">
-<img src="day 3 (2).jpg" alt="Day 3 highlight 3 - Live band performance">
+<img src="day3-band.jpg" alt="Day 3 highlight 3 - Live band performance">
 </div>
 <figcaption class="day-desc">
 Students showcase their musical talent with live guitar performances, backed by professional sound equipment.
